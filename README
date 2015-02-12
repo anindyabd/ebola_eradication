@@ -1,2 +1,8 @@
 Modeling of Ebola outbreak and eradication using a combination of a compartmental model and network analysis.
 
+Requirements:
+    Python 2.7
+    NumPy
+    SciPy
+    matplotlib
+    NetworkX
